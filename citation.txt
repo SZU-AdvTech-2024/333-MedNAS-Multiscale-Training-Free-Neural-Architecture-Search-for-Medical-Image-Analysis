@@ -1,8 +1,6 @@
 @article{REPO333,
     author = "Wang, Yan and Zhen, Liangli and Zhang, Jianwei and Li, Miqing and Zhang, Lei and Wang, Zizhou and Feng, Yangqin and Xue, Yu and Wang, Xiao and Chen, Zheng and Luo, Tao and Goh, Rick Siow Mong and Liu, Yong",
-    doi = "10.1109/TEVC.2024.3352641",
     journal = "IEEE Transactions on Evolutionary Computation",
-    keywords = "Feature extraction;Lesions;Medical diagnostic imaging;Optimization;Image classification;Neural architecture search;Evolutionary optimization;medical image classification;neural architecture search (NAS);training-free architecture search",
     number = "3",
     pages = "668-681",
     title = "{MedNAS: Multiscale Training-Free Neural Architecture Search for Medical Image Analysis}",
